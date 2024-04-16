@@ -71,7 +71,7 @@ aside {
 
 .container {
     background: black;
-    height: 500px;
+    height: 600px;
     overflow: hidden;
 }
 
@@ -128,5 +128,6 @@ img{
 #btn3:checked ~ .first{
     margin-left: -15%;
 }
+
 
 /*https://www.youtube.com/watch?v=i1HlXOK-_0Y*/
