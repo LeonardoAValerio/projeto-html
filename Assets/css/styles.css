@@ -129,5 +129,27 @@ img{
     margin-left: -15%;
 }
 
+.content-table{
+    padding: 20px;
+}
+
+.title-services{
+    text-align: center;
+}
+
+.table-services{
+    width: 100%;
+}
+
+.table-services, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 5px;
+}
+
+.table-services th{
+    text-align: left;
+    background: #ccc;
+}
 
 /*https://www.youtube.com/watch?v=i1HlXOK-_0Y*/
