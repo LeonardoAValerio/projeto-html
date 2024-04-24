@@ -133,6 +133,10 @@ img{
     padding: 20px;
 }
 
+.mid-services{
+    width: 70%;
+}
+
 .title-services{
     text-align: center;
 }
@@ -150,6 +154,12 @@ img{
 .table-services th{
     text-align: left;
     background: #ccc;
+}
+
+@media (max-width = 600px){
+    body{
+        background-color: purple;
+    }
 }
 
 /*https://www.youtube.com/watch?v=i1HlXOK-_0Y*/
