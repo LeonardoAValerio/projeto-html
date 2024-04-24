@@ -129,6 +129,8 @@ img{
     margin-left: -15%;
 }
 
+/*Table serviços*/
+
 .content-table{
     padding: 20px;
 }
@@ -156,10 +158,17 @@ img{
     background: #ccc;
 }
 
-@media (max-width = 600px){
-    body{
-        background-color: purple;
+/*
+TESTE
+@media (max-width: 600px){
+    thead{
+        display: block;
+    }
+
+    tr{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
     }
 }
-
-/*https://www.youtube.com/watch?v=i1HlXOK-_0Y*/
+*/
